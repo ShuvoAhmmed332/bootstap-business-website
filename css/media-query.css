@@ -1,0 +1,93 @@
+@media only screen and (max-width:600px){
+	.container {
+		width:100%
+	  }
+	 h5{
+		  /*! font-size:18px; */
+		  font-weight: 491;
+		  font-family: sans-sarif;
+	  }
+	  h2{
+		  font-size:38px;
+		   font-family: sans-sarif;
+	  }
+	  .carousel-caption h1{
+		  font-size:33px;
+		}
+	  .carousel-indicators li {
+    margin-bottom: 130px;
+       }
+	   
+	#homepage .butttson .btn {
+        display:none;
+            }
+	#testimonial-2 .carousel-item .test-1{
+    display:none;
+    }
+	#about h2 {
+    margin-top: -14px;
+    margin-bottom: 20px;
+    }
+   .widget.latest-news-widget h5 {
+    font-size: 26px;
+    }
+    .footer-top .widget-title {
+    margin-bottom: 14px;
+    }
+	#homepage-02 {
+    height: 440px;
+    }
+	#homepage-02 h1 {
+    margin-top: 34px;
+    font-size: 43px;
+    }
+	#homepage-02 p {
+    font-size: 19px;
+}
+.btn {
+  font-size:11px;
+}
+.btn22 {
+  font-size:11px;
+}	
+}
+@media only screen and (max-width:1100px){
+	h2 {
+    font-size: 33px;
+    line-height: 1.2;
+    text-transform: inherit;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+#about p {
+    margin-top: -3px;
+}
+.widget.latest-news-widget h5 {
+    font-size: 26px;
+    }
+    .footer-top .widget-title {
+    margin-bottom: 14px;
+    }
+	.form-control {
+    display: block;
+    width: 100%;
+    min-height: 48px;
+    padding: 24px 12px;
+    padding-right: 12px;
+    font-size: 14px;
+    font-weight: 400;
+    }
+	p {
+    font-size: 15px;
+}
+/* .carousel-caption {
+    margin-bottom: 272px;
+}
+.carousel-indicators li {
+    margin-bottom: 255px;
+} */
+#mc-form {
+    margin-bottom: -68px;
+}
+}
+
